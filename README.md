@@ -1,1 +1,1 @@
-TinDog Starting Files
+Smartschool Files
